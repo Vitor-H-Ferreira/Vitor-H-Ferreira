@@ -1,13 +1,5 @@
-[root@seuUser ~]# ./recon_engine
-STATUS: ONLINE
-AREA: CYBERSECURITY
-![Status](https://img.shields.io/badge/status-online-green)
-![Area](https://img.shields.io/badge/cybersecurity-blue)
-![Stats](https://github-readme-stats.vercel.app/api?username=SEU_USER&show_icons=true&theme=dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USER&layout=compact&theme=dark)
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/>
----
+
+
 <!--![Status](https://img.shields.io/badge/status-online-green)
 ![Area](https://img.shields.io/badge/cybersecurity-blue)
 **Vitor-H-Ferreira/Vitor-H-Ferreira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
