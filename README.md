@@ -1,6 +1,8 @@
 [root@seuUser ~]# ./recon_engine
 STATUS: ONLINE
 AREA: CYBERSECURITY
+![Status](https://img.shields.io/badge/status-online-green)
+![Area](https://img.shields.io/badge/cybersecurity-blue)
 <!--![Status](https://img.shields.io/badge/status-online-green)
 ![Area](https://img.shields.io/badge/cybersecurity-blue)
 **Vitor-H-Ferreira/Vitor-H-Ferreira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
