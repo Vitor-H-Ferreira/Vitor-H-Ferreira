@@ -1,4 +1,6 @@
-<img src="https://capsule-render.vercel.app/api?type=rounded&color=0:00c6ff,50:00ffa6,100:7f00ff&height=180&section=header&text=Vitor%20Hugo%20Ferreira%20da%20Silva&fontSize=32&fontColor=ffffff"/>
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,50:00ffb3,100:7b2cff&height=220&section=header&text=Vitor%20Hugo%20Ferreira%20da%20Silva&fontSize=35&fontColor=ffffff&animation=fadeIn&fontAlignY=40"/>
+</p>
 <!-- LINHA ANIMADA -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:00F0FF,50:00FFB3,100:8A2BE2&height=4&section=header"/>
 
