@@ -5,6 +5,10 @@
 <!-- LINHA ANIMADA -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:00F0FF,50:00FFB3,100:8A2BE2&height=4&section=header"/>
 
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:00c6ff,40:00ffb3,80:7b2cff,100:00c6ff&section=footer"/>
+</p>
+
 ## 👋 Sobre mim
 
 Sou estudante de **Desenvolvimento de Sistemas pelo SENAI**, com cursos complementares em **Design Gráfico** e **Marketing Digital**, o que contribuiu para o desenvolvimento da minha criatividade, comunicação e visão estratégica.
