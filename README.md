@@ -1,9 +1,10 @@
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=venom&height=300&text=Vitor%20Hugo%20Ferreira%20da%20Silva&fontSize=40&fontColor=ffffff&animation=fadeIn&color=0:00c6ff,30:00ffb3,60:7b2cff,100:00c6ff"/>
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=38&duration=3000&pause=1200&color=00C6FF&center=true&vCenter=true&width=900&height=120&lines=Vitor+Hugo+Ferreira+da+Silva;Desenvolvedor+em+Forma%C3%A7%C3%A3o;Sempre+Aprendendo+Algo+Novo+🚀"/>
 </p>
-<h3 align="center">
-🚀 Desenvolvedor em formação | SENAI | Sempre aprendendo algo novo
-</h3>
+
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,20,30&height=4"/>
+</p>
 
 <!-- LINHA ANIMADA -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:00F0FF,50:00FFB3,100:8A2BE2&height=4&section=header"/>
