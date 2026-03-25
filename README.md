@@ -1,9 +1,5 @@
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=38&duration=3000&pause=1200&color=00C6FF&center=true&vCenter=true&width=900&height=120&lines=Vitor+Hugo+Ferreira+da+Silva;Desenvolvedor+em+Forma%C3%A7%C3%A3o;Sempre+Aprendendo+Algo+Novo+🚀"/>
-</p>
-
-<p align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,20,30&height=4"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=280&text=Vitor%20Hugo%20Ferreira%20da%20Silva&fontAlign=50&fontAlignY=40&color=0:00c6ff,40:00ffb3,80:7b2cff,100:00c6ff&fontColor=ffffff&fontSize=38&animation=twinkling"/>
 </p>
 
 <!-- LINHA ANIMADA -->
