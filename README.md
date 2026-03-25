@@ -50,12 +50,15 @@ Atualmente, busco oportunidades que me permitam desenvolver experiência prátic
 ## 🌎 Contato
 
 <p align="center">
-<a href="https://www.linkedin.com/">
+
+<a href="https://br.linkedin.com/in/vitor-hugo-ferreira-da-silva-1a10083ba">
 <img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin">
 </a>
-<a href="mailto:seuemail@email.com">
+
+<a href="mailto:vitorhugoproficional10@gmail.com">
 <img src="https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail">
 </a>
+
 </p>
 
 <!-- FOOTER ANIMADO -->
