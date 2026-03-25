@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=26&duration=3000&pause=1200&color=00F0FF&center=true&vCenter=true&width=700&lines=👨‍💻+Estudante+de+Desenvolvimento+de+Sistemas;💡+Apaixonado+por+Tecnologia;🚀+Sempre+aprendendo+algo+novo"/>
+<img src="https://readme-typing-svg.herokuapp.com/?lines=Estudante+de+Desenvolvimento+de+Sistemas;Apaixonado+por+Tecnologia;Sempre+aprendendo+algo+novo&center=true&width=600&height=45&color=00F0FF&size=24">
 </p>
 
 <!-- LINHA ANIMADA -->
