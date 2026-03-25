@@ -2,14 +2,8 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,50:00ffb3,100:7b2cff&height=220&section=header&text=Vitor%20Hugo%20Ferreira%20da%20Silva&fontSize=35&fontColor=ffffff&animation=fadeIn&fontAlignY=40"/>
 </p>
 
-<p align="center"
-<img
-src="https://readme-typing-svg.herokuapp
-.com?color=00FFB3&size=25&center=true&
-vCenter=true&width=600&lines=
-Estudante+de+Desenvolvimento+de+Sistemas;
-Apaixonado+por+Tecnologia;Sempre+aprenden
-do+algo+novo
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=26&duration=3000&pause=1200&color=00F0FF&center=true&vCenter=true&width=700&lines=👨‍💻+Estudante+de+Desenvolvimento+de+Sistemas;💡+Apaixonado+por+Tecnologia;🚀+Sempre+aprendendo+algo+novo"/>
 </p>
 
 <!-- LINHA ANIMADA -->
