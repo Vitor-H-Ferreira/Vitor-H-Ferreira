@@ -10,14 +10,11 @@
 
 ## 👋 Sobre mim
 
-🎨 Já fiz curso de **Design Gráfico** e **Marketing Digital**.  
-💻 Atualmente estudo **Desenvolvimento de Sistemas** no **SENAI**.  
+Sou estudante de **Desenvolvimento de Sistemas pelo SENAI**, com cursos complementares em **Design Gráfico** e **Marketing Digital**, o que contribuiu para o desenvolvimento da minha criatividade, comunicação e visão estratégica.
 
-Sou uma pessoa **determinada**, **extrovertida** e gosto de trabalhar com pessoas e liderança.  
-Sempre disposto a enfrentar novos desafios e aprender coisas novas.  
+Possuo perfil comunicativo, determinado e proativo, com facilidade para trabalhar em equipe, lidar com pessoas e assumir responsabilidades de liderança quando necessário. Estou constantemente em busca de aprendizado e evolução profissional, sempre aberto a novos desafios.
 
-🚀 Aberto a oportunidades profissionais.
-
+Atualmente, busco oportunidades que me permitam desenvolver experiência prática na área de tecnologia, aplicando meus conhecimentos e contribuindo de forma positiva para o crescimento da equipe e da organização.
 ---
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2"/>
