@@ -1,13 +1,9 @@
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&height=280&text=Vitor%20Hugo%20Ferreira%20da%20Silva&fontAlign=50&fontAlignY=40&color=0:00c6ff,40:00ffb3,80:7b2cff,100:00c6ff&fontColor=ffffff&fontSize=38&animation=twinkling"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&height=300&text=Vitor%20Hugo%20Ferreira%20da%20Silva&fontSize=40&fontColor=ffffff&animation=fadeIn&color=0:00c6ff,30:00ffb3,60:7b2cff,100:00c6ff"/>
 </p>
 
 <!-- LINHA ANIMADA -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:00F0FF,50:00FFB3,100:8A2BE2&height=4&section=header"/>
-
-<p align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:00c6ff,40:00ffb3,80:7b2cff,100:00c6ff&section=footer"/>
-</p>
 
 ## 👋 Sobre mim
 
