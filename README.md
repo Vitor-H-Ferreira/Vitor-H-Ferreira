@@ -61,5 +61,31 @@ Atualmente, busco oportunidades que me permitam desenvolver experiência prátic
 </a>
 
 </p>
+
+# 📊 Minhas Estatísticas no GitHub
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Vitor-H-Ferreira&theme=tokyonight" />
+</p>
+
+---
+
+<p align="center">
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Vitor-H-Ferreira&theme=tokyonight"/>
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Vitor-H-Ferreira&theme=tokyonight"/>
+</p>
+
+---
+
+<p align="center">
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Vitor-H-Ferreira&theme=tokyonight"/>
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Vitor-H-Ferreira&theme=tokyonight&utcOffset=8"/>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Vitor-H-Ferreira&theme=tokyo-night&hide_border=true"/>
+</p>
 <!-- FOOTER ANIMADO -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,50:00FFB3,100:00F0FF&height=140&section=footer"/>
