@@ -48,19 +48,7 @@ Atualmente, busco oportunidades que me permitam desenvolver experiência prátic
 <!-- LINHA -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:00F0FF,50:00FFB3,100:8A2BE2&height=3"/>
 
-## 🌎 Contato
 
-<p align="center">
-
-<a href="https://br.linkedin.com/in/vitor-hugo-ferreira-da-silva-1a10083ba">
-<img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin">
-</a>
-
-<a href="mailto:vitorhugoproficional10@gmail.com">
-<img src="https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail">
-</a>
-
-</p>
 
 <!-- HEADER STATS -->
 <p align="center">
@@ -97,6 +85,20 @@ Atualmente, busco oportunidades que me permitam desenvolver experiência prátic
 <!-- ACTIVITY GRAPH -->
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Vitor-H-Ferreira&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=00c6ff&line=8E2DE2&point=ffffff"/>
+</p>
+
+## 🌎 Contato
+
+<p align="center">
+
+<a href="https://br.linkedin.com/in/vitor-hugo-ferreira-da-silva-1a10083ba">
+<img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin">
+</a>
+
+<a href="mailto:vitorhugoproficional10@gmail.com">
+<img src="https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail">
+</a>
+
 </p>
 <!-- FOOTER ANIMADO -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,50:00FFB3,100:00F0FF&height=140&section=footer"/>
