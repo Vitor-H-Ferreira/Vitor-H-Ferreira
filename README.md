@@ -62,5 +62,37 @@ Atualmente, busco oportunidades que me permitam desenvolver experiência prátic
 
 </p>
 
+# 📊 Minhas Estatísticas no GitHub
+
+## 👤 Sobre mim
+- 💻 Desenvolvedor
+- 🚀 Sempre aprendendo novas tecnologias
+
+---
+
+## 📈 Estatísticas
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=tokyonight)
+
+---
+
+## 🔥 Gráfico de Contribuições
+
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=SEU_USUARIO&theme=tokyo-night)
+
+---
+
+## 📊 Streak (dias contribuindo)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=SEU_USUARIO&theme=tokyonight)
+
+---
+
+## 📌 Extras
+
+![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SEU_USUARIO&theme=tokyonight)
+
 <!-- FOOTER ANIMADO -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,50:00FFB3,100:00F0FF&height=140&section=footer"/>
