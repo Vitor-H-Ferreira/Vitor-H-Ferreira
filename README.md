@@ -61,6 +61,8 @@ Atualmente, busco oportunidades que me permitam desenvolver experiência prátic
 </a>
 
 </p>
+<!-- LINHA -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:8A2BE2,50:00FFB3,100:00F0FF&height=3"/>
 
 # 📊 Minhas Estatísticas no GitHub
 
@@ -69,6 +71,8 @@ Atualmente, busco oportunidades que me permitam desenvolver experiência prátic
 </p>
 
 ---
+<!-- LINHA -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:8A2BE2,50:00FFB3,100:00F0FF&height=3"/>
 
 <p align="center">
   <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Vitor-H-Ferreira&theme=tokyonight"/>
@@ -76,6 +80,8 @@ Atualmente, busco oportunidades que me permitam desenvolver experiência prátic
 </p>
 
 ---
+<!-- LINHA -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:8A2BE2,50:00FFB3,100:00F0FF&height=3"/>
 
 <p align="center">
   <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Vitor-H-Ferreira&theme=tokyonight"/>
@@ -83,6 +89,8 @@ Atualmente, busco oportunidades que me permitam desenvolver experiência prátic
 </p>
 
 ---
+<!-- LINHA -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:8A2BE2,50:00FFB3,100:00F0FF&height=3"/>
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Vitor-H-Ferreira&theme=tokyo-night&hide_border=true"/>
