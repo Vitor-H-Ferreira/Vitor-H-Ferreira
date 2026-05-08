@@ -6,14 +6,6 @@
 <img src="https://readme-typing-svg.herokuapp.com/?lines=Estudante+de+Desenvolvimento+de+Sistemas;Apaixonado+por+Tecnologia;Sempre+aprendendo+algo+novo&center=true&width=600&height=45&color=00F0FF&size=24">
 </p>
 
-<div align="center">
-
-<img src="https://img.shields.io/badge/STATUS-ONLINE-005eff?style=for-the-badge&logo=github&logoColor=white">
-<img src="https://img.shields.io/badge/FOCUS-FULLSTACK-00d084?style=for-the-badge&logo=react&logoColor=white">
-<img src="https://img.shields.io/badge/SOBRE-DEV-8b5cf6?style=for-the-badge&logo=dev.to&logoColor=white">
-
-</div>
-
 <!-- LINHA ANIMADA -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:00F0FF,50:00FFB3,100:8A2BE2&height=4&section=header"/>
 
