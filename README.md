@@ -33,7 +33,31 @@ Atualmente, busco oportunidades que me permitam desenvolver experiência prátic
 </p>
 
 <!-- LINHA -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:00F0FF,50:00FFB3,100:8A2BE2&height=3"/>
+
+## 📜 Certificações
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/📊_EXCEL_BÁSICO-00BFFF?style=for-the-badge&logo=microsoft-excel&logoColor=ffffff"/>
+
+<img src="https://img.shields.io/badge/🦺_SEGURANÇA_DO_TRABALHO-00FF7F?style=for-the-badge&logo=googlescholar&logoColor=ffffff"/>
+
+<img src="https://img.shields.io/badge/🤖_FUNDAMENTOS_DA_IA-8A2BE2?style=for-the-badge&logo=openai&logoColor=ffffff"/>
+
+<img src="https://img.shields.io/badge/🧠_ÉTICA_NA_IA-00BFFF?style=for-the-badge&logo=brain&logoColor=ffffff"/>
+
+<img src="https://img.shields.io/badge/🛡️_SEGURANÇA_CIBERNÉTICA-00FF7F?style=for-the-badge&logo=protonvpn&logoColor=ffffff"/>
+
+<img src="https://img.shields.io/badge/♻️_FUND._ECONOMIA_CIRCULAR-8A2BE2?style=for-the-badge&logo=greendot&logoColor=ffffff"/>
+
+<img src="https://img.shields.io/badge/🔄_CICLOS_DE_RETORNO-00BFFF?style=for-the-badge&logo=buffer&logoColor=ffffff"/>
+
+<img src="https://img.shields.io/badge/⚙️_TRANSIÇÃO_ECONOMIA_CIRCULAR-00FF7F?style=for-the-badge&logo=dependabot&logoColor=ffffff"/>
+
+<img src="https://img.shields.io/badge/🌎_DESCARBONIZAÇÃO-8A2BE2?style=for-the-badge&logo=leaflet&logoColor=ffffff"/>
+
+</p>
 
 
 <!-- LINHA -->
