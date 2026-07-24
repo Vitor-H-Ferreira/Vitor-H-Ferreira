@@ -39,23 +39,23 @@ Atualmente, busco oportunidades que me permitam desenvolver experiência prátic
 
 <p align="center">
 
-<img src="https://img.shields.io/badge/📊_EXCEL_BÁSICO-00BFFF?style=for-the-badge&logo=microsoft-excel&logoColor=ffffff"/>
+<img src="https://img.shields.io/badge/Excel_Básico-0D1117?style=for-the-badge&logo=microsoft-excel&logoColor=00BFFF"/>
 
-<img src="https://img.shields.io/badge/🦺_SEGURANÇA_DO_TRABALHO-00FF7F?style=for-the-badge&logo=googlescholar&logoColor=ffffff"/>
+<img src="https://img.shields.io/badge/Segurança_do_Trabalho-0D1117?style=for-the-badge&logo=googlescholar&logoColor=00FF7F"/>
 
-<img src="https://img.shields.io/badge/🤖_FUNDAMENTOS_DA_IA-8A2BE2?style=for-the-badge&logo=openai&logoColor=ffffff"/>
+<img src="https://img.shields.io/badge/Fundamentos_da_IA-0D1117?style=for-the-badge&logo=openai&logoColor=8A2BE2"/>
 
-<img src="https://img.shields.io/badge/🧠_ÉTICA_NA_IA-00BFFF?style=for-the-badge&logo=brain&logoColor=ffffff"/>
+<img src="https://img.shields.io/badge/Ética_na_IA-0D1117?style=for-the-badge&logo=brain&logoColor=00BFFF"/>
 
-<img src="https://img.shields.io/badge/🛡️_SEGURANÇA_CIBERNÉTICA-00FF7F?style=for-the-badge&logo=protonvpn&logoColor=ffffff"/>
+<img src="https://img.shields.io/badge/Segurança_Cibernética-0D1117?style=for-the-badge&logo=protonvpn&logoColor=00FF7F"/>
 
-<img src="https://img.shields.io/badge/♻️_FUND._ECONOMIA_CIRCULAR-8A2BE2?style=for-the-badge&logo=greendot&logoColor=ffffff"/>
+<img src="https://img.shields.io/badge/Economia_Circular-0D1117?style=for-the-badge&logo=greendot&logoColor=8A2BE2"/>
 
-<img src="https://img.shields.io/badge/🔄_CICLOS_DE_RETORNO-00BFFF?style=for-the-badge&logo=buffer&logoColor=ffffff"/>
+<img src="https://img.shields.io/badge/Ciclos_de_Retorno-0D1117?style=for-the-badge&logo=buffer&logoColor=00BFFF"/>
 
-<img src="https://img.shields.io/badge/⚙️_TRANSIÇÃO_ECONOMIA_CIRCULAR-00FF7F?style=for-the-badge&logo=dependabot&logoColor=ffffff"/>
+<img src="https://img.shields.io/badge/Transição_Circular-0D1117?style=for-the-badge&logo=dependabot&logoColor=00FF7F"/>
 
-<img src="https://img.shields.io/badge/🌎_DESCARBONIZAÇÃO-8A2BE2?style=for-the-badge&logo=leaflet&logoColor=ffffff"/>
+<img src="https://img.shields.io/badge/Descarbonização-0D1117?style=for-the-badge&logo=leaflet&logoColor=8A2BE2"/>
 
 </p>
 
