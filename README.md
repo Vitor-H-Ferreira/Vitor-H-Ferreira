@@ -39,6 +39,14 @@ Atualmente, busco oportunidades que me permitam desenvolver experiência prátic
 <!-- LINHA -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:00F0FF,50:00FFB3,100:8A2BE2&height=3"/>
 
+## 🔥 Sequência de Contribuições
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Vitor-H-Ferreira&theme=tokyonight&hide_border=true&ring=00BFFF&fire=8A2BE2&currStreakLabel=00FF7F&sideNums=00BFFF&currStreakNum=00FF7F&sideLabels=8A2BE2&dates=9CA3AF"/>
+</p>
+
+---
+
 <!-- LINHA 1 -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:00F260,50:0575E6,100:8E2DE2"/>
