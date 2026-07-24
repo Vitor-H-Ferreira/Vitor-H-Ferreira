@@ -39,42 +39,42 @@ Atualmente, busco oportunidades que me permitam desenvolver experiência prátic
 
 <div align="center">
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=Vitor-H-Ferreira&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=Vitor-H-Ferreira&show_icons=true&theme=tokyonight&hide_border=true"/>&cache_seconds=86400
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vitor-H-Ferreira&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vitor-H-Ferreira&layout=compact&theme=tokyonight&hide_border=true"/>&cache_seconds=86400
 
 </div>
 
 <!-- LINHA -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:00F0FF,50:00FFB3,100:8A2BE2&height=3"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:00F0FF,50:00FFB3,100:8A2BE2&height=3"/>&cache_seconds=86400
 
 
 
 <!-- HEADER STATS -->
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Vitor-H-Ferreira&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Vitor-H-Ferreira&theme=tokyonight" />&cache_seconds=86400
 </p>
 
 <!-- LINHA 1 -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:00F260,50:0575E6,100:8E2DE2"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:00F260,50:0575E6,100:8E2DE2"/>&cache_seconds=86400
 </p>
 
 <!-- TOP LANGUAGES -->
 <p align="center">
-  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Vitor-H-Ferreira&theme=tokyonight"/>
-  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Vitor-H-Ferreira&theme=tokyonight"/>
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Vitor-H-Ferreira&theme=tokyonight"/>&cache_seconds=86400
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Vitor-H-Ferreira&theme=tokyonight"/>&cache_seconds=86400
 </p>
 
 <!-- LINHA 2 -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:fc00ff,100:00dbde"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:fc00ff,100:00dbde"/>&cache_seconds=86400
 </p>
 
 <!-- STATS -->
 <p align="center">
-  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Vitor-H-Ferreira&theme=tokyonight"/>
-  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Vitor-H-Ferreira&theme=tokyonight&utcOffset=-3"/>
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Vitor-H-Ferreira&theme=tokyonight"/>&cache_seconds=86400
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Vitor-H-Ferreira&theme=tokyonight&utcOffset=-3"/>&cache_seconds=86400
 </p>
 
 <!-- LINHA 3 -->
