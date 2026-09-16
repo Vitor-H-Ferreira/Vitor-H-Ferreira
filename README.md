@@ -89,11 +89,6 @@ Atualmente, busco oportunidades que me permitam desenvolver experiência prátic
   <img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:00c6ff,100:0072ff"/>
 </p>
 
-<!-- ACTIVITY GRAPH -->
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Vitor-H-Ferreira&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=00c6ff&line=8E2DE2&point=ffffff"/>
-</p>
-
 ## 🌎 Contato
 
 <p align="center">
